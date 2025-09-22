@@ -1,0 +1,8 @@
+site:
+  name: Toronto Observatory
+  latitude: 43.6532
+  longitude: -79.3832
+  elevation: 76       # meters above sea level
+  timezone: "America/Toronto"
+
+observation_date: "2025-09-22"
